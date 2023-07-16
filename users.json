@@ -1,0 +1,46 @@
+[
+  {
+    "+19255231673": {
+      "name": "sathvik",
+      "city": "Dublin",
+      "state": "California",
+      "zip_code": "94568",
+      "country": "USA",
+      "latitude": "39.956723",
+      "longitude": "-75.189458"
+    }
+  },
+  {
+    "+18605603635": {
+      "name": null,
+      "city": "Windsor",
+      "state": "Connecticut",
+      "country": "USA",
+      "zip_code": "06095",
+      "latitude": "39.962259",
+      "longitude": "-75.195203"
+    }
+  },
+  {
+    "+17209987170": {
+      "name": null,
+      "city": "Aurora",
+      "state": "Colorado",
+      "country": "USA",
+      "zip_code": "80012",
+      "latitude": "39.956745",
+      "longitude": "-75.189521"
+    }
+  },
+  {
+    "+16503939098": {
+      "name": null,
+      "city": "San Ramon",
+      "state": "California",
+      "country": "USA",
+      "zip_code": " 94582",
+      "latitude": "37.750321",
+      "longitude": "-121.900278"
+    }
+  }
+]
