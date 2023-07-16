@@ -16,7 +16,7 @@ openai.api_key = openai_api_key
 
 url = "https://weatherapi-com.p.rapidapi.com/current.json"
 
-ybada
+
 
 def respond(phone_num, msg):
     try:
