@@ -1,0 +1,1 @@
+This project is a chatbot you can text. It is connected to CHATGPT as well as google and weather apis to give you weather and recommendations in the area.
